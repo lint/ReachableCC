@@ -1,0 +1,9 @@
+Package: com.lint.reachablecc
+Name: ReachableCC
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Opens the control center when toggling reachability
+Maintainer: lint
+Author: lint
+Section: Tweaks
